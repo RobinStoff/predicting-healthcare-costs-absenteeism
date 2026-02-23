@@ -44,3 +44,26 @@ Is there a relationship between average weekly working hours and absenteeism due
 ---
 
 ## Project Structure
+├── notebook.ipynb
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+
+---
+
+## Limitations
+
+- Country-level aggregated data (risk of ecological fallacy)
+- No control variables included (e.g., GDP, labor structure)
+- Results represent association, not causation
+
+---
+
+## Future Improvements
+
+- Add control variables (GDP per capita, healthcare spending)
+- Multi-variable regression analysis
+- Panel data across multiple years
+- Individual-level analysis
+
