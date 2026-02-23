@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a2aeb9c5-fe7c-486e-883d-4c6498915dbb" />
+
+
 # Working Hours and Health-Related Absenteeism in the EU (2019)
 
 End-to-end data analytics project exploring the relationship between average weekly working hours and health-related absenteeism across EU countries.
@@ -66,4 +69,5 @@ Is there a relationship between average weekly working hours and absenteeism due
 - Multi-variable regression analysis
 - Panel data across multiple years
 - Individual-level analysis
+
 
